@@ -3,6 +3,8 @@
 Prevent laptop from sleeping. A menu bar app (cup icon) that holds a
 `PreventUserIdleDisplaySleep` power assertion for 1 to 15 hours or indefinitely.
 
+<img src="docs/screenshot.png" width="291" alt="StayAwake menu showing an active session with 7h 32m left">
+
 ## Build
 
 Needs only the Xcode Command Line Tools (`xcode-select --install`), macOS 13+.
